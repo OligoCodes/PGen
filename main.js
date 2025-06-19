@@ -6,5 +6,5 @@ const generatePassword = () => {
         const randomIndex = Math.floor(Math.random() * charset.length);
         password += charset[randomIndex];
       }
-      document.getElementById("pass").textContent = password;
+      setTimeout(() => {document.getElementById("pass").textContent = password;}, 1000)
   };
