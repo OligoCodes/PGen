@@ -4,7 +4,7 @@ A simple password generator 🔐 developed with ❤️ by Joseph Bonsu 🇬🇭
 
 **PGen** is a simple, secure, and responsive web app that generates strong random passwords based on user-defined length. Built with pure HTML, CSS, and JavaScript — no frameworks, no dependencies.
 
-[!Image Banner](https://i.postimg.cc/26dg9m8Z/IMG-20250619-WA0024.jpg)
+![Image Banner](https://i.postimg.cc/26dg9m8Z/IMG-20250619-WA0024.jpg)
 
 ## 🚀 Live Demo
 
