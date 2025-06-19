@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Orbitron:wght@400..900&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+
+  <title>HTML</title>
+  
+  <!-- HTML -->
+  
+
+  <!-- Custom Styles -->
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <script type="text/javascript" src="darkMode.js" defer></script>
+</head>
+
+<body>
+  <div class="overall-box">
+     <button id="theme-switch"><i class="fa-solid fa-moon"></i><i class="fa-solid fa-sun"></i></button>
+     <h1 class="text"><i class="fa-solid fa-key"></i> Password Generator</h1>
+  
+     <h3 class="text">Enter number of characters <i class="fa-solid fa-tachograph-digital"></i></h3>
+  
+     <div class="characters"><input type="number" name="char" id="char" placeholder="eg..6"><button type="submit" onclick="generatePassword()">OK</button></div>
+      
+     <h3 class="text"><i class="fa-solid fa-lock"></i></i> Password Will Appear Below</h3>
+  
+     <div class="display">
+       <div class="text-box"><h1 id="pass"></h1></div>
+     </div>
+  
+  </div>
+  <p>Made with ❤️  by Joseph Bonsu 🇬🇭 </p>
+  <!-- Project -->
+  <script src="main.js"></script>
+</body>
+</html>
