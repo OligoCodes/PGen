@@ -8,7 +8,9 @@ A simple password generator 🔐 developed with ❤️ by Joseph Bonsu 🇬🇭
 
 ## 🚀 Live Demo
 
-👉 [Try it on GitHub Pages](https://OligoCodes.github.io/pgen)
+## 🚀 Live Demo
+
+🔗 [PGen on Vercel](https://pgen-one.vercel.app)
 
 ## 🛠 Features
 
