@@ -159,9 +159,12 @@ i{
 }
 
 @media (min-width: 300px) {
-    #pass{
-        scale: 0.6;
-    }
+    #pass {
+  font-size: clamp(0.8rem, 2.5vw, 1.2rem); /* Dynamically adjusts */
+  width: 100%;
+  max-width: 300px;
+  text-align: center;
+ }
 }
 
 p{
