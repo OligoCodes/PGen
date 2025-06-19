@@ -1,16 +1,20 @@
 A simple password generator 🔐 developed with ❤️ by Joseph Bonsu 🇬🇭 
 
+
 # 🔐 PGen – Random Password Generator
 
 **PGen** is a simple, secure, and responsive web app that generates strong random passwords based on user-defined length. Built with pure HTML, CSS, and JavaScript — no frameworks, no dependencies.
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
 ![Image Banner](https://i.postimg.cc/26dg9m8Z/IMG-20250619-WA0024.jpg)
 
-## 🚀 Live Demo
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 ## 🚀 Live Demo
 
 🔗 [PGen on Vercel](https://pgen-one.vercel.app)
+
 
 ## 🛠 Features
 
@@ -19,6 +23,7 @@ A simple password generator 🔐 developed with ❤️ by Joseph Bonsu 🇬🇭
 - Copy password to clipboard with one click  
 - Mobile-friendly and lightweight  
 - Works entirely offline – pure frontend
+
 
 ## 📦 Technologies Used
 
